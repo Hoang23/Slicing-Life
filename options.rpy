@@ -47,7 +47,7 @@ Liah - Character Art
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "Slicing Life"
+define build.name = "Slicing_Life"
 
 
 ## Sounds and music ############################################################
